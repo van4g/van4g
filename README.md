@@ -18,7 +18,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/van4g/van4g/output/snake.svg" alt="Snake animation" />
-
-###
